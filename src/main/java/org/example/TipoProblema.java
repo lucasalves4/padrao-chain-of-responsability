@@ -1,2 +1,5 @@
-package org.example;public interface TipoProblema {
+package org.example;
+
+public interface TipoProblema {
+
 }
